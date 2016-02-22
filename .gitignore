@@ -1,0 +1,4 @@
+*.py[cod]
+*$py.class
+#Ipython Notebook
+.ipynb_checkpoints
