@@ -15,7 +15,7 @@ Examples:
     ./example.py
 
     # Simulate all errors:
-    ./example.py -l -f -u -r
+    ./example.py -l -f -u -r -t
 """
 import os
 import sys
