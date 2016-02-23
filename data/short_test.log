@@ -1,54 +1,54 @@
 {"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:bfd1:dc7f:34db:5b10:0327:ff96", "location": "Canada-British Columbia-Niriirsibk", "employee": "Venessa", "unix_timestamp": 1442682585, "is_anomaly": 1}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808578}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808591}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808599}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808578}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808591}
+{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808599}
 {"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861057}
 {"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861058}
 {"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861518}
 {"doc_type": "slide show", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861525}
 {"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442864853}
 {"doc_type": null, "event_type": "open_file", "ip": "2a4.f46.1af.119", "isp": "UKLINX", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442867969}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442871067}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879712}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879736, "is_anomaly": 1}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880272}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880372}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880775}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442880966}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442881015}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881019}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881054}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881372}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442871067}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879712}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879736, "is_anomaly": 1}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880272}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880372}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880775}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442880966}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442881015}
+{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881019}
+{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881054}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881372}
 {"doc_type": "spreadsheet", "event_type": "download_file", "ip": null, "isp": "", "location": null, "employee": "Angelica", "unix_timestamp": 1442881399}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881479}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881479}
 {"doc_type": "slide show", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Denny", "unix_timestamp": 1442881577}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881594}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881620}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881646}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881666}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882624}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882627}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882633}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881594}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881620}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881646}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881666}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882624}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882627}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882633}
 {"doc_type": "slide show", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Denny", "unix_timestamp": 1442882650}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442883433}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442888827}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442890115}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890725}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890761}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442891036}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442891594}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442892711}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.706", "location": "Canada-Ontario-Eniiseaazc", "employee": "Denny", "unix_timestamp": 1442893914}
-{"doc_type": "general", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442895758}
+{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442883433}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442888827}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442890115}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890725}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890761}
+{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442891036}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442891594}
+{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442892711}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.706", "location": "Canada-Ontario-Eniiseaazc", "employee": "Denny", "unix_timestamp": 1442893914}
+{"doc_type": "general", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442895758}
 {"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442896364}
 {"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442896427}
 {"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442897263}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442954007}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442954007}
 {"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442957957}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958550}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958588}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP (safe)", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958590}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958550}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958588}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
+{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958590}
 {"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442960497}
 {"doc_type": "slide show", "event_type": "open_file", "ip": "572b:73e3:0c86:c32a:8a15:6343:6ec5:c866", "isp": "DEECO", "location": "Canada-Ontario-Zapnkcncca", "employee": "Denny", "unix_timestamp": 1442983223, "is_anomaly": 1}
