@@ -1,54 +1,50 @@
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:bfd1:dc7f:34db:5b10:0327:ff96", "location": "Canada-British Columbia-Niriirsibk", "employee": "Venessa", "unix_timestamp": 1442682585, "is_anomaly": 1}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808578}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808591}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442808599}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861057}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861058}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861518}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442861525}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "", "ip": "4f8b:e57b:db48:efff:ff18:9500:260d:51a5", "location": "Canada-Ontario-Parabcknny", "employee": "Venessa", "unix_timestamp": 1442864853}
-{"doc_type": null, "event_type": "open_file", "ip": "2a4.f46.1af.119", "isp": "UKLINX", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442867969}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442871067}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879712}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442879736, "is_anomaly": 1}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880272}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880372}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442880775}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442880966}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442881015}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881019}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881054}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881372}
-{"doc_type": "spreadsheet", "event_type": "download_file", "ip": null, "isp": "", "location": null, "employee": "Angelica", "unix_timestamp": 1442881399}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442881479}
-{"doc_type": "slide show", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Denny", "unix_timestamp": 1442881577}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881594}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881620}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881646}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442881666}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882624}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882627}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442882633}
-{"doc_type": "slide show", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Denny", "unix_timestamp": 1442882650}
-{"doc_type": null, "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442883433}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442888827}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442890115}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890725}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442890761}
-{"doc_type": "slide show", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Denny", "unix_timestamp": 1442891036}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442891594}
-{"doc_type": null, "event_type": "download_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Beth", "unix_timestamp": 1442892711}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.706", "location": "Canada-Ontario-Eniiseaazc", "employee": "Denny", "unix_timestamp": 1442893914}
-{"doc_type": "general", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.ec6.f1c", "location": "Canada-Ontario-Eniiseaazc", "employee": "Venessa", "unix_timestamp": 1442895758}
-{"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442896364}
-{"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442896427}
-{"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442897263}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442954007}
-{"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442957957}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958550}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958588}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958589}
-{"doc_type": "spreadsheet", "event_type": "open_file", "isp": "company ISP", "ip": "2c4.41a.248.f1c", "location": "Canada-Ontario-Kcpckbsssk", "employee": "Angelica", "unix_timestamp": 1442958590}
-{"doc_type": "general", "event_type": "open_file", "ip": null, "isp": "", "location": null, "employee": "Venessa", "unix_timestamp": 1442960497}
-{"doc_type": "slide show", "event_type": "open_file", "ip": "572b:73e3:0c86:c32a:8a15:6343:6ec5:c866", "isp": "DEECO", "location": "Canada-Ontario-Zapnkcncca", "employee": "Denny", "unix_timestamp": 1442983223, "is_anomaly": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Nova Scotia-Ssipicaass", "user": "Renetta", "unix_timestamp": 1442682585, "safe_connection": 0, "is_anomaly": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442695706, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Risbpycapr", "user": "Renetta", "unix_timestamp": 1442776960, "safe_connection": 0}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442781453, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442781455, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kncresccay", "user": "Denny", "unix_timestamp": 1442781474, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442781548, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442782019, "safe_connection": 1, "is_anomaly": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442782031, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442782130, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442782143, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442782994, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442783784, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Venessa", "unix_timestamp": 1442784990, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442785740, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442786747, "safe_connection": 1, "is_anomaly": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442786843, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kncresccay", "user": "Denny", "unix_timestamp": 1442787544, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442788674, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442790750, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442790810, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442792009, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442792139, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442792196, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442792481, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Denny", "unix_timestamp": 1442793096, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Denny", "unix_timestamp": 1442793131, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442794077, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Denny", "unix_timestamp": 1442801409, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442804614, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Eniiseaazc", "user": "Renetta", "unix_timestamp": 1442804639, "safe_connection": 1}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442805723, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442806892, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442807076, "safe_connection": 1}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Venessa", "unix_timestamp": 1442808577, "safe_connection": 1}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Venessa", "unix_timestamp": 1442808591, "safe_connection": 1}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Venessa", "unix_timestamp": 1442808599, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Byybapzzca", "user": "Renetta", "unix_timestamp": 1442861053, "safe_connection": 0}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Byybapzzca", "user": "Renetta", "unix_timestamp": 1442861058, "safe_connection": 0}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Byybapzzca", "user": "Renetta", "unix_timestamp": 1442861518, "safe_connection": 0}
+{"category": "monitor", "behaviour": "curiosity", "connection": "Canada-Ontario-Byybapzzca", "user": "Renetta", "unix_timestamp": 1442861525, "safe_connection": 0}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Byybapzzca", "user": "Renetta", "unix_timestamp": 1442864843, "safe_connection": 0}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Venessa", "unix_timestamp": 1442867961, "safe_connection": 0}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442871065, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Angelica", "unix_timestamp": 1442877826, "safe_connection": 1}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442879708, "safe_connection": 1}
+{"category": "case", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Denny", "unix_timestamp": 1442879736, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442880268, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442880372, "safe_connection": 1}
+{"category": "keyboard", "behaviour": "curiosity", "connection": "Canada-Ontario-Kcpckbsssk", "user": "Beth", "unix_timestamp": 1442880775, "safe_connection": 1}
