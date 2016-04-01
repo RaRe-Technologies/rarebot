@@ -1,0 +1,631 @@
+Kenyetta
+True positive:  31
+True negative:  898
+False positive: 211
+False negative: 1
+F-measure:      0.2263
+-------------------------------------
+Randa
+True positive:  2
+True negative:  773
+False positive: 220
+False negative: 177
+F-measure:      0.0100
+-------------------------------------
+Tyler
+True positive:  0
+True negative:  511
+False positive: 131
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Pamela
+True positive:  1
+True negative:  834
+False positive: 145
+False negative: 24
+F-measure:      0.0117
+-------------------------------------
+Garret
+True positive:  915
+True negative:  286
+False positive: 162
+False negative: 0
+F-measure:      0.9187
+-------------------------------------
+Joya
+True positive:  18
+True negative:  866
+False positive: 314
+False negative: 0
+F-measure:      0.1029
+-------------------------------------
+Delilah
+True positive:  436
+True negative:  1435
+False positive: 437
+False negative: 0
+F-measure:      0.6662
+-------------------------------------
+Gay
+True positive:  339
+True negative:  3409
+False positive: 785
+False negative: 0
+F-measure:      0.4634
+-------------------------------------
+Otelia
+True positive:  21
+True negative:  762
+False positive: 559
+False negative: 69
+F-measure:      0.0627
+-------------------------------------
+Vickie
+True positive:  80
+True negative:  2014
+False positive: 551
+False negative: 54
+F-measure:      0.2092
+-------------------------------------
+Pearly
+True positive:  0
+True negative:  3753
+False positive: 1157
+False negative: 4
+F-measure:      0.0000
+-------------------------------------
+Alice
+True positive:  1
+True negative:  3138
+False positive: 780
+False negative: 5
+F-measure:      0.0025
+-------------------------------------
+Denny
+True positive:  0
+True negative:  544
+False positive: 196
+False negative: 129
+F-measure:      0.0000
+-------------------------------------
+Sha
+True positive:  660
+True negative:  1012
+False positive: 211
+False negative: 0
+F-measure:      0.8622
+-------------------------------------
+Adalberto
+True positive:  0
+True negative:  2401
+False positive: 581
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Venessa
+True positive:  1
+True negative:  1987
+False positive: 370
+False negative: 184
+F-measure:      0.0036
+-------------------------------------
+Winnie
+True positive:  0
+True negative:  506
+False positive: 203
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Libbie
+True positive:  148
+True negative:  1658
+False positive: 592
+False negative: 0
+F-measure:      0.3333
+-------------------------------------
+Emmanuel
+True positive:  30
+True negative:  1697
+False positive: 552
+False negative: 0
+F-measure:      0.0980
+-------------------------------------
+Jannette
+True positive:  13
+True negative:  1299
+False positive: 269
+False negative: 37
+F-measure:      0.0783
+-------------------------------------
+Abel
+True positive:  34
+True negative:  497
+False positive: 171
+False negative: 0
+F-measure:      0.2845
+-------------------------------------
+Ramiro
+True positive:  143
+True negative:  606
+False positive: 364
+False negative: 165
+F-measure:      0.3509
+-------------------------------------
+Renetta
+True positive:  65
+True negative:  512
+False positive: 121
+False negative: 87
+F-measure:      0.3846
+-------------------------------------
+Silvia
+True positive:  30
+True negative:  1527
+False positive: 338
+False negative: 0
+F-measure:      0.1508
+-------------------------------------
+Suk
+True positive:  1
+True negative:  1084
+False positive: 156
+False negative: 2
+F-measure:      0.0125
+-------------------------------------
+Mark
+True positive:  0
+True negative:  303
+False positive: 62
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Daisey
+True positive:  171
+True negative:  632
+False positive: 372
+False negative: 0
+F-measure:      0.4790
+-------------------------------------
+Marisa
+True positive:  0
+True negative:  2085
+False positive: 519
+False negative: 2
+F-measure:      0.0000
+-------------------------------------
+Agustina
+True positive:  11
+True negative:  355
+False positive: 91
+False negative: 39
+F-measure:      0.1447
+-------------------------------------
+Issac
+True positive:  0
+True negative:  1760
+False positive: 720
+False negative: 10
+F-measure:      0.0000
+-------------------------------------
+Jonie
+True positive:  671
+True negative:  1053
+False positive: 206
+False negative: 0
+F-measure:      0.8669
+-------------------------------------
+Lina
+True positive:  87
+True negative:  627
+False positive: 186
+False negative: 0
+F-measure:      0.4833
+-------------------------------------
+Roxana
+True positive:  7
+True negative:  599
+False positive: 141
+False negative: 309
+F-measure:      0.0302
+-------------------------------------
+Antonia
+True positive:  10
+True negative:  466
+False positive: 70
+False negative: 40
+F-measure:      0.1538
+-------------------------------------
+Neville
+True positive:  8
+True negative:  239
+False positive: 184
+False negative: 615
+F-measure:      0.0196
+-------------------------------------
+Estella
+True positive:  0
+True negative:  379
+False positive: 121
+False negative: 3
+F-measure:      0.0000
+-------------------------------------
+Dionne
+True positive:  29
+True negative:  637
+False positive: 226
+False negative: 14
+F-measure:      0.1946
+-------------------------------------
+Alva
+True positive:  0
+True negative:  808
+False positive: 152
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Marlin
+True positive:  0
+True negative:  1114
+False positive: 309
+False negative: 9
+F-measure:      0.0000
+-------------------------------------
+Drucilla
+True positive:  0
+True negative:  1208
+False positive: 776
+False negative: 5
+F-measure:      0.0000
+-------------------------------------
+Nigel
+True positive:  15
+True negative:  1289
+False positive: 206
+False negative: 60
+F-measure:      0.1014
+-------------------------------------
+Theola
+True positive:  0
+True negative:  2307
+False positive: 370
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Claretta
+True positive:  0
+True negative:  1259
+False positive: 522
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Trinidad
+True positive:  33
+True negative:  365
+False positive: 142
+False negative: 74
+F-measure:      0.2340
+-------------------------------------
+Angelica
+True positive:  774
+True negative:  1205
+False positive: 342
+False negative: 0
+F-measure:      0.8190
+-------------------------------------
+Yukiko
+True positive:  1
+True negative:  657
+False positive: 172
+False negative: 2
+F-measure:      0.0114
+-------------------------------------
+Hildred
+True positive:  9
+True negative:  963
+False positive: 246
+False negative: 0
+F-measure:      0.0682
+-------------------------------------
+Guadalupe
+True positive:  82
+True negative:  626
+False positive: 324
+False negative: 141
+F-measure:      0.2607
+-------------------------------------
+Garry
+True positive:  78
+True negative:  2572
+False positive: 599
+False negative: 43
+F-measure:      0.1955
+-------------------------------------
+Keneth
+True positive:  3
+True negative:  642
+False positive: 198
+False negative: 376
+F-measure:      0.0103
+-------------------------------------
+Domitila
+True positive:  164
+True negative:  908
+False positive: 230
+False negative: 0
+F-measure:      0.5878
+-------------------------------------
+Amee
+True positive:  14
+True negative:  2832
+False positive: 491
+False negative: 0
+F-measure:      0.0539
+-------------------------------------
+Beth
+True positive:  49
+True negative:  544
+False positive: 132
+False negative: 117
+F-measure:      0.2824
+-------------------------------------
+Polly
+True positive:  0
+True negative:  1019
+False positive: 279
+False negative: 3
+F-measure:      0.0000
+-------------------------------------
+Velma
+True positive:  79
+True negative:  750
+False positive: 227
+False negative: 0
+F-measure:      0.4104
+-------------------------------------
+Beverly
+True positive:  40
+True negative:  564
+False positive: 219
+False negative: 0
+F-measure:      0.2676
+-------------------------------------
+Gene
+True positive:  2
+True negative:  797
+False positive: 390
+False negative: 845
+F-measure:      0.0032
+-------------------------------------
+Kandis
+True positive:  1
+True negative:  1150
+False positive: 194
+False negative: 9
+F-measure:      0.0098
+-------------------------------------
+Savanna
+True positive:  3
+True negative:  653
+False positive: 120
+False negative: 151
+F-measure:      0.0217
+-------------------------------------
+Sheila
+True positive:  5
+True negative:  850
+False positive: 339
+False negative: 0
+F-measure:      0.0287
+-------------------------------------
+Elba
+True positive:  0
+True negative:  463
+False positive: 105
+False negative: 3
+F-measure:      0.0000
+-------------------------------------
+Jaye
+True positive:  3
+True negative:  3409
+False positive: 844
+False negative: 0
+F-measure:      0.0071
+-------------------------------------
+Kenisha
+True positive:  3
+True negative:  651
+False positive: 164
+False negative: 695
+F-measure:      0.0069
+-------------------------------------
+Ina
+True positive:  0
+True negative:  2834
+False positive: 1199
+False negative: 91
+F-measure:      0.0000
+-------------------------------------
+Harmony
+True positive:  13
+True negative:  916
+False positive: 357
+False negative: 52
+F-measure:      0.0598
+-------------------------------------
+Willodean
+True positive:  13
+True negative:  1134
+False positive: 88
+False negative: 43
+F-measure:      0.1656
+-------------------------------------
+Merissa
+True positive:  121
+True negative:  717
+False positive: 163
+False negative: 0
+F-measure:      0.5975
+-------------------------------------
+Yaeko
+True positive:  142
+True negative:  1636
+False positive: 458
+False negative: 0
+F-measure:      0.3827
+-------------------------------------
+Daniella
+True positive:  78
+True negative:  1609
+False positive: 4146
+False negative: 98
+F-measure:      0.0355
+-------------------------------------
+Bruna
+True positive:  10
+True negative:  1611
+False positive: 288
+False negative: 40
+F-measure:      0.0575
+-------------------------------------
+Sixta
+True positive:  0
+True negative:  2551
+False positive: 623
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Taneka
+True positive:  1
+True negative:  774
+False positive: 185
+False negative: 503
+F-measure:      0.0029
+-------------------------------------
+Kip
+True positive:  22
+True negative:  2634
+False positive: 826
+False negative: 0
+F-measure:      0.0506
+-------------------------------------
+Desire
+True positive:  0
+True negative:  1001
+False positive: 518
+False negative: 3
+F-measure:      0.0000
+-------------------------------------
+Natalia
+True positive:  0
+True negative:  793
+False positive: 112
+False negative: 64
+F-measure:      0.0000
+-------------------------------------
+Bonny
+True positive:  12
+True negative:  1342
+False positive: 353
+False negative: 53
+F-measure:      0.0558
+-------------------------------------
+Marcell
+True positive:  28
+True negative:  548
+False positive: 129
+False negative: 0
+F-measure:      0.3027
+-------------------------------------
+Alfreda
+True positive:  9
+True negative:  958
+False positive: 252
+False negative: 0
+F-measure:      0.0667
+-------------------------------------
+Martin
+True positive:  0
+True negative:  670
+False positive: 156
+False negative: 43
+F-measure:      0.0000
+-------------------------------------
+Hoyt
+True positive:  13
+True negative:  969
+False positive: 120
+False negative: 37
+F-measure:      0.1421
+-------------------------------------
+Rossana
+True positive:  0
+True negative:  1967
+False positive: 299
+False negative: 0
+F-measure:      0.0000
+-------------------------------------
+Angelique
+True positive:  2
+True negative:  1047
+False positive: 255
+False negative: 228
+F-measure:      0.0082
+-------------------------------------
+Lindsay
+True positive:  0
+True negative:  534
+False positive: 115
+False negative: 5
+F-measure:      0.0000
+-------------------------------------
+Jesse
+True positive:  7
+True negative:  1047
+False positive: 481
+False negative: 0
+F-measure:      0.0283
+-------------------------------------
+Leeanna
+True positive:  668
+True negative:  566
+False positive: 236
+False negative: 0
+F-measure:      0.8499
+-------------------------------------
+Sofia
+True positive:  0
+True negative:  1139
+False positive: 224
+False negative: 26
+F-measure:      0.0000
+-------------------------------------
+Windy
+True positive:  206
+True negative:  1029
+False positive: 553
+False negative: 0
+F-measure:      0.4269
+-------------------------------------
+In
+True positive:  0
+True negative:  1109
+False positive: 327
+False negative: 7
+F-measure:      0.0000
+-------------------------------------
+Kelley
+True positive:  0
+True negative:  1394
+False positive: 169
+False negative: 28
+F-measure:      0.0000
+-------------------------------------
+Norine
+True positive:  0
+True negative:  784
+False positive: 162
+False negative: 2
+F-measure:      0.0000
+-------------------------------------
+Score (avg. user F-measure): 0.157968
